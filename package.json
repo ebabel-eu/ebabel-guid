@@ -1,0 +1,21 @@
+{
+  "name": "ebabel-guid",
+  "version": "1.0.0",
+  "description": "Returns a globally unique id string following the standard guid format.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebabel-eu/ebabel-guid.git"
+  },
+  "keywords": [
+    "games",
+    "module",
+    "javascript"
+  ],
+  "author": "Thomas Amar <hello@ebabel.eu> (https://ebabel.eu/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ebabel-eu/ebabel-guid/issues"
+  },
+  "homepage": "https://github.com/ebabel-eu/ebabel-guid#readme"
+}
