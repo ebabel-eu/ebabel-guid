@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebabel-eu/ebabel-guid.git"
+    "url": "git+https://github.com/ebabel-games/ebabel-guid.git"
   },
   "keywords": [
     "games",
@@ -26,9 +26,9 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ebabel-eu/ebabel-guid/issues"
+    "url": "https://github.com/ebabel-games/ebabel-guid/issues"
   },
-  "homepage": "https://github.com/ebabel-eu/ebabel-guid#readme",
+  "homepage": "https://github.com/ebabel-games/ebabel-guid#readme",
   "dependencies": {},
   "devDependencies": {
     "ajv": "^6.5.4",

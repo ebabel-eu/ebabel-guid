@@ -1,5 +1,5 @@
 # ebabel-guid
-[![Build Status](https://travis-ci.org/ebabel-eu/ebabel-guid.svg?branch=master)](https://travis-ci.org/ebabel-eu/ebabel-guid)
+[![Build Status](https://travis-ci.org/ebabel-games/ebabel-guid.svg?branch=master)](https://travis-ci.org/ebabel-games/ebabel-guid)
 
 Returns a globally unique id string following the standard guid format.
 
